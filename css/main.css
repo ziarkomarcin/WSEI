@@ -41,7 +41,8 @@ html, body {
 }
 
 .footer {
-	height: 10%;
+	min-height: 10%;
+	height: auto;
 	width: 100%;
 	float: left;
 	background-color: gold;
